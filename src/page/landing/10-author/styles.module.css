@@ -1,0 +1,139 @@
+.main {
+    margin-top: 15px;
+}
+
+.main_top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.main_top_left {
+    max-width: 638px;
+    width: 100%;
+    margin-top: 43px;
+}
+
+.desc {
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%; /* 35.2px */
+    text-transform: uppercase;
+}
+
+.name {
+    margin-top: 16px;
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 100px */
+    text-transform: uppercase;
+}
+
+.ul {
+    margin: 32px 0;
+
+    max-width: 540px;
+    display: grid;
+    grid-row-gap: 2px;
+}
+
+.ul p {
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 30px */
+    padding-left: 0px;
+    margin-left: 26px;
+}
+
+.ul p:before {
+    content: '';
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    background: #fff;
+    border-radius: 50%;
+    top: 12px;
+    left: -16px;
+}
+
+.sub_desc {
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.avatar {
+    height: 673px;
+    max-width: 628px;
+}
+
+.main_bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120px;
+    justify-content: center;
+}
+
+.title {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%; /* 35.2px */
+    text-transform: uppercase;
+}
+
+.sub_title {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    margin-top: 16px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 30px */
+    max-width: 695px;
+}
+
+.btn {
+    border-radius: 13px;
+    display: flex;
+    padding: 12px 0px;
+    max-width: 100%;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.btn_content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn_content p{
+    margin-left: 16px;
+    color: #FFF;
+    font-family: Inter,sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 36px */
+}
