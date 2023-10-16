@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/poker/static/css/main.bb449c66.css",
+    "main.js": "/poker/static/js/main.b16b8de8.js",
+    "static/media/discord.svg": "/poker/static/media/discord.bdb7f9fda6fc8c78c89a3c575c07f20c.svg",
+    "static/media/avatar.png": "/poker/static/media/avatar.00e2cad23a235d9869af.png",
+    "static/media/learn.png": "/poker/static/media/learn.97653027c8c6bda6f6fd.png",
+    "static/media/icon_b.png": "/poker/static/media/icon_b.8200bf80d081c61df191.png",
+    "static/media/blog_1.png": "/poker/static/media/blog_1.c71b56c88bc7fee61729.png",
+    "static/media/icon_m.png": "/poker/static/media/icon_m.dab334d8a0a98afddc2f.png",
+    "static/media/block2_s.png": "/poker/static/media/block2_s.69d89b98be59d9492895.png",
+    "static/media/icon_s.png": "/poker/static/media/icon_s.2e94fb9f0ec39a0af39f.png",
+    "static/media/block2_b.png": "/poker/static/media/block2_b.bdfbde2db481877a9c25.png",
+    "static/media/logo_command.svg": "/poker/static/media/logo_command.7789917f232cb6b0f789f79f57d740c4.svg",
+    "static/media/logo.svg": "/poker/static/media/logo.d1c1c8dd13c556c5fc5e30d2409f9d02.svg",
+    "static/media/logo_seconf.svg": "/poker/static/media/logo_seconf.de743199ba7f89854328a3a4ac77bbc3.svg",
+    "static/media/tg.svg": "/poker/static/media/tg.7113045f04421705a5d8410a8edf3937.svg",
+    "index.html": "/poker/index.html",
+    "static/media/accordion_icon.svg": "/poker/static/media/accordion_icon.c1bca2f04e572e7eef304b71710c7f59.svg",
+    "static/media/close.svg": "/poker/static/media/close.3e810d7b127d976fcd01682c80cfec4a.svg",
+    "static/media/arrow.svg": "/poker/static/media/arrow.2f386564a554758f6829689043f11a3b.svg",
+    "main.bb449c66.css.map": "/poker/static/css/main.bb449c66.css.map",
+    "main.b16b8de8.js.map": "/poker/static/js/main.b16b8de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb449c66.css",
+    "static/js/main.b16b8de8.js"
+  ]
+}
