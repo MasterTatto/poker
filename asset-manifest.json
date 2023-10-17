@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/poker/static/css/main.e349af94.css",
-    "main.js": "/poker/static/js/main.1fa812a9.js",
+    "main.css": "/poker/static/css/main.ba05b487.css",
+    "main.js": "/poker/static/js/main.34a73a72.js",
     "static/media/discord.svg": "/poker/static/media/discord.bdb7f9fda6fc8c78c89a3c575c07f20c.svg",
     "static/media/avatar.png": "/poker/static/media/avatar.00e2cad23a235d9869af.png",
     "static/media/learn.png": "/poker/static/media/learn.97653027c8c6bda6f6fd.png",
@@ -11,6 +11,8 @@
     "static/media/block2_s.png": "/poker/static/media/block2_s.69d89b98be59d9492895.png",
     "static/media/icon_s.png": "/poker/static/media/icon_s.2e94fb9f0ec39a0af39f.png",
     "static/media/block2_b.png": "/poker/static/media/block2_b.bdfbde2db481877a9c25.png",
+    "static/media/img_box_2_2_m.png": "/poker/static/media/img_box_2_2_m.f1e76770c1408796c683.png",
+    "static/media/imb_box_2_1_m.png": "/poker/static/media/imb_box_2_1_m.305fe6b6d9f6ca02b0c1.png",
     "static/media/logo_command.svg": "/poker/static/media/logo_command.7789917f232cb6b0f789f79f57d740c4.svg",
     "static/media/logo.svg": "/poker/static/media/logo.d1c1c8dd13c556c5fc5e30d2409f9d02.svg",
     "static/media/logo_seconf.svg": "/poker/static/media/logo_seconf.de743199ba7f89854328a3a4ac77bbc3.svg",
@@ -19,11 +21,11 @@
     "static/media/accordion_icon.svg": "/poker/static/media/accordion_icon.c1bca2f04e572e7eef304b71710c7f59.svg",
     "static/media/close.svg": "/poker/static/media/close.3e810d7b127d976fcd01682c80cfec4a.svg",
     "static/media/arrow.svg": "/poker/static/media/arrow.2f386564a554758f6829689043f11a3b.svg",
-    "main.e349af94.css.map": "/poker/static/css/main.e349af94.css.map",
-    "main.1fa812a9.js.map": "/poker/static/js/main.1fa812a9.js.map"
+    "main.ba05b487.css.map": "/poker/static/css/main.ba05b487.css.map",
+    "main.34a73a72.js.map": "/poker/static/js/main.34a73a72.js.map"
   },
   "entrypoints": [
-    "static/css/main.e349af94.css",
-    "static/js/main.1fa812a9.js"
+    "static/css/main.ba05b487.css",
+    "static/js/main.34a73a72.js"
   ]
 }
