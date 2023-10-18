@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/poker/static/css/main.bd122fa0.css",
-    "main.js": "/poker/static/js/main.eb7529a0.js",
-    "static/media/discord.svg": "/poker/static/media/discord.bdb7f9fda6fc8c78c89a3c575c07f20c.svg",
+    "main.js": "/poker/static/js/main.079afe47.js",
     "static/media/avatar.png": "/poker/static/media/avatar.00e2cad23a235d9869af.png",
-    "static/media/learn.png": "/poker/static/media/learn.97653027c8c6bda6f6fd.png",
+    "static/media/learn.png": "/poker/static/media/learn.831ea83c3fff0187916a.png",
+    "static/media/discord.svg": "/poker/static/media/discord.2bdfc6c47a8b93bcecbbb3ec41a98703.svg",
     "static/media/icon_b.png": "/poker/static/media/icon_b.8200bf80d081c61df191.png",
     "static/media/blog_1.png": "/poker/static/media/blog_1.c71b56c88bc7fee61729.png",
     "static/media/icon_m.png": "/poker/static/media/icon_m.dab334d8a0a98afddc2f.png",
@@ -22,10 +22,10 @@
     "static/media/close.svg": "/poker/static/media/close.3e810d7b127d976fcd01682c80cfec4a.svg",
     "static/media/arrow.svg": "/poker/static/media/arrow.2f386564a554758f6829689043f11a3b.svg",
     "main.bd122fa0.css.map": "/poker/static/css/main.bd122fa0.css.map",
-    "main.eb7529a0.js.map": "/poker/static/js/main.eb7529a0.js.map"
+    "main.079afe47.js.map": "/poker/static/js/main.079afe47.js.map"
   },
   "entrypoints": [
     "static/css/main.bd122fa0.css",
-    "static/js/main.eb7529a0.js"
+    "static/js/main.079afe47.js"
   ]
 }
